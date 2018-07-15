@@ -1,0 +1,20 @@
+#buttonBar{
+    margin-top: 50px; 
+    margin-left: 25px; 
+    margin-right: 25px; 
+    margin-bottom: 15px; 
+}
+
+.btn{
+    margin-right: 3px; 
+    background-color: darksalmon;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    border: 0px; 
+}
+
+.container{
+    background-color: gainsboro; 
+}
+body{
+    background-color: lightslategray; 
+}
