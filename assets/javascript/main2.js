@@ -2,7 +2,7 @@
 //function returns "search" variable in the URL
 function getURL(search) {
    // return "http://api.giphy.com/v1/gifs/search?q=" + search + "&apikey=z97a11B7OMWkWo2ajStc013lzJbri8w0";
-    return "http://api.giphy.com/v1/gifs/search?q=" +search+ "&api_key=z97a11B7OMWkWo2ajStc013lzJbri8w0&limit=15"; 
+    return "https://api.giphy.com/v1/gifs/search?q=" +search+ "&api_key=z97a11B7OMWkWo2ajStc013lzJbri8w0&limit=15"; 
 }
 
 
